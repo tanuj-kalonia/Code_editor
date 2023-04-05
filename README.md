@@ -2,7 +2,7 @@
 
 ⚡️ A code editor that compiles and runs your code on the web.
 
-<img src="https://github.com/manuarora700/react-code-editor/blob/main/demo.png" />
+<img src="https://github.com/tanuj-kalonia/Code_editor/blob/master/src/image/demo.png" />
 
 ## Features:
 
